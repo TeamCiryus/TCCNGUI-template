@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/custom/gui_header_footer"
+	},
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"scale": [1.12, 1.12, 1]
+		}
+	}
+}
